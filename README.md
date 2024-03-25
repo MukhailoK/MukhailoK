@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MukhailoK
 - 👀 I’m interested in ...JAVA
-- 🌱 I’m currently leaving ... Berlin, Germany
+- 🌱 I’m currently live in ... Berlin, Germany
 - 💞️ I’m looking to collaborate on ...Java Developers
 - 📫 How to reach me ...kolotajlo17@gmail.com
 
