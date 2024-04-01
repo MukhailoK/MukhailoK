@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...Java Developers
 - 📫 How to reach me ...kolotajlo17@gmail.com
 
-<!---
-MukhailoK/MukhailoK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Java developer with experience in building secure and scalable applications using Spring, Spring Security, PostgreSQL, and Google APIs. This repository showcases some of my projects and highlights my technical expertise.
+
+
